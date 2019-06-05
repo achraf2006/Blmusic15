@@ -1,0 +1,6 @@
+owner=518645153678753813
+prefix=3
+game=BL | 3play
+stayinchannel=true
+songinstatus=false
+token=NTg1OTM5NDAzMTEzNzU4NzMx.XPgwnw.dzhImuPnPI5OSa5NJjrqbNtyBb4
